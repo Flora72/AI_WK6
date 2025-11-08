@@ -1,0 +1,15 @@
+edge_ai/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+logs/
+output/
+checkpoints/
+data/
+temp/
+*.log
+*.tmp
