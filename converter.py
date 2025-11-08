@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-def export_tflite(model, filename="notebooks/edge_model.tflite"):
+def export_tflite(model, filename="edge_model.tflite"):
     converter = tf.lite.TFLiteConverter.from_keras_model(model)
     tflite_model = converter.convert()
     with open(filename, "wb") as f:
