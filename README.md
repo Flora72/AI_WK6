@@ -81,3 +81,6 @@ numpy
 
 ---
 
+## Theory Questions
+
+For the theory questions [Edge AI Classifier Project Doc](https://docs.google.com/document/d/1lMAbtcnXA1pi2Evl08DGUikvKRmKkFtRY2Rx6kX9CpU/edit?usp=sharing).
